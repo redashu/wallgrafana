@@ -38,3 +38,45 @@
 ## install and start grafan-server 
 
 <img src="start.png">
+
+# Grafana installation using docker 
+
+## installing docker in ubuntu 18.04
+
+```
+sudo snap install docker 
+```
+
+---
+
+<img src="docker.png">
+
+## running grafana server as container
+
+<img src="gra.png">
+
+
+## data sources info for Grafana
+
+<img src="datasources.png">
+
+# Data Sources with Graphite 
+
+<img src="graphite.png">
+
+##  more info about graphite
+
+<img src="grainfo.png">
+
+## Graphite component 
+
+1. graphite-web 
+2.  graphite-carbon
+
+## install graphite with apache2 including mod-wsgi 
+
+<img src="graphitewsgi.png">
+
+## migration of graphite related files and info to Django db (squilite by default)
+
+<img src="migrate.png">
