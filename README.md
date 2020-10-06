@@ -80,3 +80,8 @@ sudo snap install docker
 ## migration of graphite related files and info to Django db (squilite by default)
 
 <img src="migrate.png">
+
+## configure apache2 to host graphite web 
+
+<img src="graweb.png">
+
