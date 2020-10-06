@@ -85,3 +85,7 @@ sudo snap install docker
 
 <img src="graweb.png">
 
+
+## graphite web ui troubleshooting 
+
+<img src="gratr.png">
