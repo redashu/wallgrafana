@@ -32,3 +32,9 @@ grafana.ini
 ## graphite web ui troubleshooting 
 
 <img src="trouble.png">
+
+## after that reload apache2
+
+```
+sudo systemctl reload apache2
+```
