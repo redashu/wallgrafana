@@ -38,3 +38,29 @@ grafana.ini
 ```
 sudo systemctl reload apache2
 ```
+
+# Graphite carbon-cache enable
+
+<img src="carboncache.png">
+
+## graphite storage and metrics
+
+<img src="gmetrics.png">
+
+## retention policy of bucket
+
+<img src="retention.png">
+
+# StatsD 
+
+## A UDP socket between graphite and  app server 
+
+<img src="statsd.png">
+
+## starting statsD 
+
+<img src="statsstart.png">
+
+## statsD port check tcp and udp both
+
+<img src="portcheck.png">
