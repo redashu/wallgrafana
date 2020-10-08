@@ -33,3 +33,32 @@ sudo docker run --name graphite-statsd  -itd  --restart always  -p 80:80 -p 8125
 
 <img src="datastats.png">
 
+
+# Grafana 
+
+## creating dashboard 
+
+<img src="grafanad.png">
+
+## Data source. mysql server adding to grafana
+
+### On Machine 2 we are going to install and configure mysql server 
+
+```
+sudo apt install mysql-server -y
+sudo systemctl start mysql
+```
+## understanding db concept
+
+<img src="dbu,png">
+
+
+
+## configuring db 
+
+<img src="createu.png">
+
+====
+
+<img src="bind.png">
+
