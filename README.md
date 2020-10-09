@@ -19,3 +19,9 @@
 ## verify connection 
 
 <img src="k8svr.png">
+
+# Granfa to mysql  connection. or any db server 
+
+## on the mysql server 
+
+<img src="dbuser.png">
